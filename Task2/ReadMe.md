@@ -1,4 +1,4 @@
-The Dataset for this task is taken fron the 'datasets' module in sklearn
+The Dataset for this task is taken fron the 'datasets' module of sklearn
 
 The Iris data has 5 features, 
 1) Data -- is in an array of the values of ['sepal length (cm)', 'sepal width (cm)', 'petal length (cm)', 'petal width (cm)']
